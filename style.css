@@ -1,0 +1,32 @@
+img{
+    border-radius: 50%;
+    border: 3px solid rgb(131, 86, 172);
+    container: 105;
+}
+
+body{
+    background-color: #c8a2c8;
+    border-style: solid;
+    border-color: #b080de76;
+    border-width: 9cap  ;
+}
+.center{
+    text-align: center;
+}
+
+.curriílo{
+    text-align: center;
+}
+
+.curriílo {
+    list-style-type: none;
+    padding: 0;
+    text-align: center; 
+}  
+
+body {
+    max-width: 800px;
+    margin: 0 auto; 
+}
+
+
